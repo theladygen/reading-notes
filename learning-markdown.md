@@ -7,10 +7,10 @@
 3. __What symbol will create a heading in Markdown?__<br>
    The # symbol
 
-   * __How many do you need to create the largest heading?__<br>
+    * __How many do you need to create the largest heading?__<br>
    1
  
-   * __How many do you need to create the smallest heading?__<br>
+    * __How many do you need to create the smallest heading?__<br>
    6
   
 4. __When making text bold or italicized for emphasis, it is best practice to use which symbol?__<br>
