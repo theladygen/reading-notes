@@ -17,7 +17,7 @@
    When you want to bold or italicize the m***iddl***e of a word for emphasis it is best practice to use asterisks. However, in general to make text italicized you can use _ _ or * * OR to make text bold use __ __ or ** **.
 
 5. __How do you create a link with Markdown?__<br>
-   Type [text you wish to use](URL here)
+   Type the text you wish to be shown inside brackets [] followed by the URL inside parentheses ()
 
 6. __What are the three symbols you can use to create an unordered (bulleted) list with Markdown?__<br>
    You can use - , * , or + 
