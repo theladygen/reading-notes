@@ -17,3 +17,5 @@ git commit -m "Description of your commit" (commit)
 5.**What is the command to send your changed files to Github?**
 
 git push origin main (push)
+
+[CF Reading Journal Home](https://theladygen.github.io/reading-notes/)

@@ -30,3 +30,5 @@
 6. **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
 
    You can use - , * , or +
+
+[CF Reading Journal Home](https://theladygen.github.io/reading-notes/)

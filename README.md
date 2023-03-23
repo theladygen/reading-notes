@@ -11,9 +11,9 @@
 
 #### Code 102
 
-* [Learning Markdown](https://theladygen.github.io/reading-notes/learning-markdown)
-* [The Coder's Computer](https://theladygen.github.io/reading-notes/the-coders-computer)
-* [Revisions and the Cloud](https://theladygen.github.io/reading-notes/revisions-and-the-cloud)
+* [Learning Markdown](https://theladygen.github.io/reading-notes/Code102/learning-markdown)
+* [The Coder's Computer](https://theladygen.github.io/reading-notes/Code102/the-coders-computer)
+* [Revisions and the Cloud](https://theladygen.github.io/reading-notes/Code102/revisions-and-the-cloud)
 * [Structure webpages with HTML](url)
 * [Design webpages with CSS](url)
 * [Activate webpages with JavaScript](url)
