@@ -1,6 +1,6 @@
 # Welcome to my CF Reading Journal
 
-*My name is Genevieve DuPuy and I currently work as a self employed esthetician/sugarist at my studio [Sugar Peeps](https://www.sugarpeeps.com) located in Ballard, WA. I am attending Code Fellows with aspirations to expand my skill set, grow my career, and thrive financially by taking a leap into the world of coding and tech. You can follow along with this adventures via my [GitHub portfolio](https://github.com/theladygen). Here's to embracing lifelong learning and the magic of a [growth mindset](growth-mindset.md)!*
+*My name is Genevieve DuPuy and I currently work as a self employed esthetician/sugarist at my studio [Sugar Peeps](https://www.sugarpeeps.com) located in Ballard, WA. I am attending Code Fellows with aspirations to expand my skill set, grow my career, and thrive financially by taking a leap into the world of coding and tech. You can follow along with the adventure via my [GitHub portfolio](https://github.com/theladygen). To lifelong learning and embracing the magic of a [growth mindset](growth-mindset.md)!*
 
 ![photo of a girl jumping in a lake](https://images.unsplash.com/photo-1491236149350-54bdab98dc14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
