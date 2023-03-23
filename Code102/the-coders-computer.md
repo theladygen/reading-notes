@@ -32,3 +32,5 @@
   This will change directory one level up along the hierarchy of the path you are currently at.
 * **ls projects/new-project**  
   This will list the contents within the "new-project" directory.
+
+[CF Reading Journal Home](README.md)
