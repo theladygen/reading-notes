@@ -37,3 +37,5 @@
 * [Class 13](url)
 * [Class 14](url)
 * [Class 15](url)
+
+[Thoughts and Observations...](https://theladygen.github.io/reading-notes/Code102/thoughts-and-observations)
