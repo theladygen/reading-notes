@@ -33,4 +33,4 @@
 * **ls projects/new-project**  
   This will list the contents within the "new-project" directory.
 
-[CF Reading Journal Home](README.md)
+[CF Reading Journal Home](../README.md)

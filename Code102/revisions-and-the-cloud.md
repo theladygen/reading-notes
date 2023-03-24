@@ -18,4 +18,4 @@ git commit -m "Description of your commit" (commit)
 
 git push origin main (push)
 
-[CF Reading Journal Home](README.md)
+[CF Reading Journal Home](../README.md)

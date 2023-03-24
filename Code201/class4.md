@@ -1,3 +1,3 @@
 # Class 4
 
-[CF Reading Journal Home](README.md)
+[CF Reading Journal Home](../README.md)

@@ -12,4 +12,4 @@ To me, a growth mindset means that we are always capable of growth and learning.
 
 [Photo by Prateek Katyal on Unsplash](https://unsplash.com/photos/FcdtuGf7TEc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-[CF Reading Journal Home](README.md)
+[CF Reading Journal Home](./README.md)

@@ -1,3 +1,3 @@
 # Class 8
 
-[CF Reading Journal Home](README.md)
+[CF Reading Journal Home](../README.md)

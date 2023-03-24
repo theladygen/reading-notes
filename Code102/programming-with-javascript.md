@@ -1,3 +1,3 @@
 # Programming with JavaScript: Class 7
 
-[CF Reading Journal Home](README.md)
+[CF Reading Journal Home](../README.md)
