@@ -1,7 +1,5 @@
 # Activate Webpages with JavaScript: Class 6
 
-**My top 3 most significant readings from this class:**
-
 1.**What are variables in JavaScript?**
 
 Variables are containers for storing data/values (storing data values). A variable is a “named storage” for data.
@@ -18,7 +16,7 @@ x = x + 5
 
 This assigns the value of x + 5 to x. (It calculates the value of x + 5 and puts the result into x. The value of x is incremented by 5.)
 
-Note: The "equal to" operator is written like == in JavaScript.
+Note: The "equal to" operator is written like == or === in JavaScript.
 
 4.**What is information received from the user called?**
 
