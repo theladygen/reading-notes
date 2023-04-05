@@ -19,3 +19,11 @@ All the styles in a page will "cascade" into a new "virtual" style sheet by the 
 So, an inline style has the highest priority, and will override external and internal styles and browser defaults.
 
 Also, if some properties have been defined for the same selector (element) in different style sheets, the value from the last read (most recently updated/last definted) style sheet will be used.
+
+## Career Coaching
+
+### Read
+
+[Career Coaching Overview](https://codefellows.github.io/common_curriculum/career_coaching/)
+
+[Review the Professional Competencies](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies)
