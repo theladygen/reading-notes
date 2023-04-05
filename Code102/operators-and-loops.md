@@ -1,5 +1,12 @@
 # Operators and Loops: Class 8
 
+## Read
+
++ [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
++ Focus only on Comparison operators and Assignment operators.
++ [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
++ Focus only on for statement and while statement loops.
+
 1.**What is an expression in JavaScript?**
 
 At a high level, an expression is a valid unit of code that resolves to a value. There are two types of expressions: those that have side effects (such as assigning values) and those that purely evaluate.
@@ -16,6 +23,6 @@ A for loop repeats until a specified condition evaluates to false.
 
 4.**How many times will a while loop execute?**
 
-A while statement executes its statements as long as a specified condition evaluates to true.
+A while statement executes its statements as long as a specified condition evaluates to true
 
 [CF Reading Journal Home](../README.md)

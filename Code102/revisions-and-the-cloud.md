@@ -1,5 +1,12 @@
 # Revisions and the Cloud: Class 3
 
+## Read
+
+[Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
++ Read only up through the section called “Seeing Your Remote”.
++ Feel free to skim the “Getting Started” instructions, do not follow along with that section for now.
+
 1.**What is Version Control?**
 Version Control is a system that lets you record changes of a file or set of files so that you may revisit them later.
 

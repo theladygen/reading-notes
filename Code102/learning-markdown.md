@@ -1,5 +1,19 @@
 # Learning Markdown: Class 1
 
+## Read and Bookmark
+
+[Getting Started](https://www.markdownguide.org/getting-started/)
+
+## Read only “What is Markdown” and “Why Use Markdown” sections
+
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+[Mastering Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Watch
+
+[GitHub Pages](https://pages.github.com/)
+
 1.**What is Markdown?**
 
    Markdown is a lightweight, easy to use, markup language that quickly adds formatting to a plain text document.
