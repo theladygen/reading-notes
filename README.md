@@ -8,7 +8,9 @@
 
 [Photo by Erik Dungan on Unsplash](https://unsplash.com/photos/TZ-D7A7Oy0s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-## Code 102
+## Table of Contents
+
+### Code 102
 
 * [Learning Markdown](Code102/learning-markdown.md)
 * [The Coder's Computer](Code102/the-coders-computer.md)
