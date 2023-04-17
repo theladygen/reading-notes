@@ -23,7 +23,7 @@
 
 [Thoughts and Observations: Code 102](Code102/thoughts-and-observations-code102.md)
 
-## Code 201
+### Code 201
 
 * [Class 1](Code201/class1.md)
 * [Class 2](Code201/class2.md)
