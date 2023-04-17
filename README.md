@@ -1,4 +1,6 @@
-# Welcome to my CF Reading Journal
+# Reading Notes
+
+## Welcome to my CF Reading Journal
 
 *My name is Genevieve DuPuy and I currently work as a self employed esthetician/sugarist at my studio [Sugar Peeps](https://www.sugarpeeps.com) located in Ballard, WA. I am attending Code Fellows with aspirations to expand my skill set, grow my career, and thrive financially by taking a leap into the world of coding and tech. You can follow along with the adventure via my [GitHub portfolio](https://github.com/theladygen). To lifelong learning and embracing the magic of a [growth mindset](growth-mindset.md)!*
 
@@ -6,11 +8,7 @@
 
 [Photo by Erik Dungan on Unsplash](https://unsplash.com/photos/TZ-D7A7Oy0s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-## Table of Contents
-
-### Reading Notes
-
-#### Code 102
+## Code 102
 
 * [Learning Markdown](Code102/learning-markdown.md)
 * [The Coder's Computer](Code102/the-coders-computer.md)
@@ -23,7 +21,7 @@
 
 [Thoughts and Observations: Code 102](Code102/thoughts-and-observations-code102.md)
 
-#### Code 201
+## Code 201
 
 * [Class 1](Code201/class1.md)
 * [Class 2](Code201/class2.md)
