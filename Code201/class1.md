@@ -12,13 +12,11 @@ Beginning to get a grasp on how the web works, website design, html, css, javasc
 
 1.**Compose a short poem describing how HTTP sends data between computers.**
 
-My attempt at a haiku! :nerd_face:
+My attempt at a haiku!
 
-Client makes request
-
-Server delivers response
-
-HTTP helps
+*Client makes request  
+Server delivers response  
+HTTP helps*
 
 2.**Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 
@@ -64,13 +62,19 @@ Specifying a description that includes keywords relating to the content of your 
 
 6.**How is the `<meta>` HTML tag used when specifying metadata?**
 
+It represents metadata that can't be represented by other HTML elements. It is used to give data about that data.
+
 ## Miscellaneous
 
 [How to start to design a Website.](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)
 
 1.**What is the first step to designing a Website?**
 
+Project ideation: decide what you want to accomplish, how will the website help achieve those goals, and what needs to be done in what order to get there.
+
 2.**What is the most important question to answer when designing a Website?**
+
+What exactly do you want to accomplish?
 
 [Semantics.](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
