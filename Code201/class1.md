@@ -104,4 +104,6 @@ You can add via Internal JavaScript where you place the `<script>` element insid
 
 Keep digging into JavaScript. Remember to use the console to play!
 
+### ***Answers to questions were found researching and using the sources linked above each section***
+
 [CF Reading Journal Home](../README.md)
