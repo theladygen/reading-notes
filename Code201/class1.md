@@ -80,14 +80,28 @@ What exactly do you want to accomplish?
 
 1.**Why should you use an `<h1>` element over a `<span>` element to display a top level heading?**
 
+While you can render a `span` to look like a top level heading, it has no semantic value, so it will not get any extra benefits.
+
 2.**What are the benefits of using semantic tags in our HTML?**
+
+* Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+* Screen readers can use it as a signpost to help visually impaired users navigate a page
+* Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+* Suggests to the developer the type of data that will be populated
+* Semantic naming mirrors proper custom element/component naming
 
 [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 1.**Describe 2 things that require JavaScript in the Browser?**
 
+Browser APIs are built into your web browser, and are able to expose data from the surrounding computer environment, or do useful complex things. Two examples are: The DOM (Document Object Model) API allowing you to manipulate HTML and CSS, creating, removing and changing HTML, dynamically applying new styles to your page, and the Canvas and WebGL APIs allowing you to create animated 2D and 3D graphics.
+
 2.**How can you add JavaScript to an HTML document?**
 
+You can add via Internal JavaScript where you place the `<script>` element inside the head of the HTML just before the closing tag. You can use an External JavaScript file that you link in the head of the HTML as well. You can also create Inline JavaScript handlers directly in the HTML where you wish it to be. This last in inefficent and bad practice though.
+
 ## Things I Want to Know More About
+
+Keep digging into JavaScript. Remember to use the console to play!
 
 [CF Reading Journal Home](../README.md)
