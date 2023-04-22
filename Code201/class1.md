@@ -98,7 +98,7 @@ Browser APIs are built into your web browser, and are able to expose data from t
 
 2.**How can you add JavaScript to an HTML document?**
 
-You can add via Internal JavaScript where you place the `<script>` element inside the head of the HTML just before the closing tag. You can use an External JavaScript file that you link in the head of the HTML as well. You can also create Inline JavaScript handlers directly in the HTML where you wish it to be. This last in inefficent and bad practice though.
+You can add via Internal JavaScript where you place the `<script>` element inside the head of the HTML just before the closing tag. You can use an External JavaScript file that you link in the head of the HTML as well. You can also create Inline JavaScript handlers directly in the HTML where you wish it to be. This last in inefficient and bad practice though.
 
 ## Things I Want to Know More About
 
