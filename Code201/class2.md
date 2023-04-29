@@ -2,6 +2,8 @@
 
 ## Reading
 
+HTML, CSS, and JavaScript are the integral working parts of beginning to learn coding and it's very cool to revisit touched on topics and pick up new layers each time.
+
 ### Continue Reading
 
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
