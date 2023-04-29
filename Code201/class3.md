@@ -16,7 +16,7 @@ You should use unordered lists for groupings of items that don't have a numerica
 
 Nesting within unordered lists will change the bullet style.
 
-3.**When should you use an `ordered list` vs an `unorder list` in your HTML document?**
+3.**When should you use an `ordered list` vs an `unordered list` in your HTML document?**
 
 You should use an ordered list when the order is meaningful and an unordered list when the order is meaningless.
 
@@ -30,7 +30,7 @@ You can use the start attribute to begin an ordered list at whatever number you 
 
 1.**Describe the CSS properties of `margin` and `padding` as characters in a story. What is their role in a story titled: “The Box Model”?**
 
-Padding is like the protective gear on a football player, surrounding him. Margin is like the bodyguards around him keeping the paparazzi from getting too close.
+Padding is like the protective gear on a football player, surrounding him. Margin is the bodyguard team around him keeping the paparazzi from getting too close.
 
 2.**List and describe the four parts of an HTML elements box as referred to by the `box model`.**
 
