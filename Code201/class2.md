@@ -1,8 +1,8 @@
 # Class 2
 
-## Reading
-
 HTML, CSS, and JavaScript are the integral working parts of beginning to learn coding and it's very cool to revisit touched on topics and pick up new layers each time.
+
+## Reading
 
 ### Continue Reading
 

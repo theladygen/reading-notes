@@ -1,8 +1,8 @@
 # Class 3
 
-## Reading
-
 Expanding and continuing to build upon the beginning layers we've seen this far in CSS and JS is really helping to make certain aspects click one at a time. I'm trying to gain more memory for the terminology so I can articulate questions better.
+
+## Reading
 
 ### [Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
@@ -38,7 +38,13 @@ The center is the content, which is surrounded by padding. The edge of this is t
 
 ### [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-[Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays). [Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators). [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals). [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code).
+[Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays).
+
+[Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators).
+
+[Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals).
+
+[Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code).
 
 1.**What `data types` can you store inside of an `Array`?**
 
