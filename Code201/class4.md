@@ -55,7 +55,7 @@ A function declaration is naming and creating the function. An invocation is cal
 
 2.**What is the difference between a parameter and an argument?**
 
-Parameters are values that need to be included inside the function parentheses, which it needs to do its job properly. Parameters are sometimes called arguments, properties, or even attributes.
+Parameters are values that need to be included inside the function parentheses, which it needs to do its job properly. Parameters are sometimes called arguments, properties, or even attributes. Arguments are the real values passed to the function and parameters are applied to the argument.
 
 ### Miscellaneous
 
