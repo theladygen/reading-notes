@@ -57,7 +57,7 @@ When choosing a font consider it's browser availability.
 
 5.**Describe two ways you could add spacing around the characters displayed in an `h1` element.**
 
-You chould use letter-spacing or word-spacing properties to set the spacing between letters and words in an `h1`.
+You could use letter-spacing or word-spacing properties to set the spacing between letters and words in an `h1`.
 
 ## Things I Want to Know More About
 
