@@ -38,7 +38,7 @@ Events are things that happen in the system you are programming. The system tell
 
 2.**When using the `addEventListener()` method, what 2 arguments will you need to provide?**
 
-A string that calls what action the user is to take (click, mouseover, etc) and a function that will be called whent the event happens.
+You will need to provide and type and a listener.
 
 3.**Describe the event object. Why is the target within the event object useful?**
 
