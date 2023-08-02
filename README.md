@@ -1,14 +1,18 @@
 # Reading Notes
 
-## Welcome to my CF Reading Journal
+## Welcome to my Class Journals
 
-My name is Genevieve DuPuy and I am transitioning into a career in full stack software development. For the past 7 years I have been working as a self employed esthetician/sugarist running my own studio, [Sugar Peeps](https://www.sugarpeeps.com). I welcome you to follow along with my coding adventures on [GitHub](https://github.com/theladygen). Here's to lifelong learning and embracing the power of a [growth mindset](growth-mindset.md). *Huzzah!*
+My name is Genevieve DuPuy and I am transitioning into a career in full stack software development. For the past 7 years I have been working as a self employed esthetician/sugarist running my own studio, [Sugar Peeps](https://www.sugarpeeps.com).
+
+This page contains a collection of my class notes as I make my way along the path of learning to code. I welcome you to also follow along with my adventures on [GitHub](https://github.com/theladygen).
+
+Here's to lifelong learning and embracing the power of a [growth mindset](growth-mindset.md). *Huzzah!*
 
 ![photo of a girl jumping in a lake](images/girljumpinginlake.jpg)
 
 [Photo by Erik Dungan on Unsplash](https://unsplash.com/photos/TZ-D7A7Oy0s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-## Class Notes and Table of Contents
+## Table of Contents
 
 ## Code 102 - Intro to Software Development
 
