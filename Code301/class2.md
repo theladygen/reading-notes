@@ -47,9 +47,14 @@ Counters (votes/likes/etc), forms (input elements/checkboxes/etc), or anything t
 ## Bookmark and Review
 
 [React Docs - State and Lifecycle](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
+
 [React Docs - handling events](https://legacy.reactjs.org/docs/handling-events.html)
+
 [React Tutorial through ‘Developer Tools’](https://react.dev/learn/tutorial-tic-tac-toe)
+
 [React Bootstrap Documentation](https://react-bootstrap.github.io/)
 [Boootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
+
 [Bootstrap Shuffle - a class “sandbox”](https://bootstrapshuffle.com/classes)
+
 [Netlify](https://www.netlify.com/)
