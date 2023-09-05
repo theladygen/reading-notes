@@ -24,7 +24,10 @@ It makes writing conditional statements shorter and more concise.
 
 2.***Rewrite the following statement using a ternary statement:***
 
-console.log(x===y ? 'true' : 'false');
+```
+console.log(x===y ? true : false);
+```
+
 ```
 if(x===y){
   console.log(true);
