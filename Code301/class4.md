@@ -41,3 +41,9 @@ if(x===y){
 [React Bootstrap - Forms](https://react-bootstrap.github.io/docs/forms/overview)
 
 [React Docs - conditional rendering](https://legacy.reactjs.org/docs/conditional-rendering.html)
+
+## Things I Want to Know More About
+
+### ***Answers to questions were found researching and using the sources linked above each section***
+
+[CF Reading Journal Home](../README.md)

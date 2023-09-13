@@ -58,3 +58,9 @@ Counters (votes/likes/etc), forms (input elements/checkboxes/etc), or anything t
 [Bootstrap Shuffle - a class “sandbox”](https://bootstrapshuffle.com/classes)
 
 [Netlify](https://www.netlify.com/)
+
+## Things I Want to Know More About
+
+### ***Answers to questions were found researching and using the sources linked above each section***
+
+[CF Reading Journal Home](../README.md)

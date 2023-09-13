@@ -86,3 +86,9 @@ The child component accesses it as a prop
 
 [React Tutorial through ‘Declaring a Winner’](https://react.dev/learn/tutorial-tic-tac-toe)
 [React Docs - Lifting State Up](https://legacy.reactjs.org/docs/lifting-state-up.html)
+
+## Things I Want to Know More About
+
+### ***Answers to questions were found researching and using the sources linked above each section***
+
+[CF Reading Journal Home](../README.md)

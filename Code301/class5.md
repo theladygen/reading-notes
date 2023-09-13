@@ -52,3 +52,9 @@ Line 2 is a function inside line 1. It remembers the 'n' value from the outer fu
 3.***Explain how either `map` or `reduce` operates, with regards to higher-order functions.***
 
 `map` applies a function to each element of an array and returns a new array of the same length.
+
+## Things I Want to Know More About
+
+### ***Answers to questions were found researching and using the sources linked above each section***
+
+[CF Reading Journal Home](../README.md)
