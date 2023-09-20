@@ -4,7 +4,7 @@
 
 ### [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm#)
 
-1.**What is a “component”?**
+1.***What is a “component”?***
 
 A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
 
@@ -12,7 +12,7 @@ A component is a software object, intended to interact with other components, en
 
 A software component can be defined as a unit of composition with a contractually specified interface and explicit context dependencies only. That is, a software component can be deployed independently and is subject to composition by third parties.
 
-2.**What are the characteristics of a component?**
+2.***What are the characteristics of a component?***
 
 Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 
@@ -26,7 +26,7 @@ Encapsulated − A A component depicts the interfaces, which allow the caller to
 
 Independent − Components are designed to have minimal dependencies on other components.
 
-3.**What are the advantages of using component-based architecture?**
+3.***What are the advantages of using component-based architecture?***
 
 Ease of deployment − As new compatible versions become available, it is easier to replace existing versions with no impact on the other components or the system as a whole.
 
@@ -46,15 +46,15 @@ Independent − Independency and flexible connectivity of components. Independen
 
 ### [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
-1.**What is “props” short for?**
+1.***What is “props” short for?***
 
 Properties. “Props” is a special keyword in React, which stands for properties.
 
-2.**How are props used in React?**
+2.***How are props used in React?***
 
 They are used to pass data from one component to another.
 
-3.**What is the flow of props?**
+3.***What is the flow of props?***
 
 The flow is uni-directional aka one way from parent to child.
 
