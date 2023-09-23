@@ -40,7 +40,7 @@ Node is used to run various build tools that are designed to automate the proces
 
 1.***What are the 6 reasons for pair programming?***
 
-Greater efficiency, engaged collaboration, learning from fellow students, social skills, job interview readiness, work environment readiness. 
+Greater efficiency, engaged collaboration, learning from fellow students, social skills, job interview readiness, work environment readiness.
 
 2.***In your experience, which of these reasons have you found most beneficial?***
 
